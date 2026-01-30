@@ -21,6 +21,7 @@ Developed by:
 RegisterNumber:  
 */
 ```
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -97,7 +98,7 @@ plt.show()
 # -----------------------
 print("Final Weight (w):", w)
 print("Final Bias (b):", b)
-
+```
 
 ## Output:
 
